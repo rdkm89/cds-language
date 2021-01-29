@@ -65,7 +65,7 @@ Some readings are marked with `math` indicating that students with knowledge of 
 - Cordell, R. (2015). 'Reprinting, Circulation, and the Network Author in Antebellum Newspapers', _American Literary History_, 27(3), 417-445. DOI: [10.1093/alh/ajv028](https://academic.oup.com/alh/article-abstract/27/3/417/85989)
 
 #### Lesson 7 ####
-
+- So, R.J. & Roland, E. (2020). 'Race and Distant Reading', _Publication of the Modern Language Association (PMLA), special issue on "Varieties of Digital Humanities_, 135(1), 59-73. [Download](https://186a12ba-ba8b-43dc-a7e9-e52f0db4a597.filesusr.com/ugd/175024_f4e33b1f05924be58fcfbc8e0542d475.pdf)
 
 #### Lesson 8 ####
 - Stine, Z., Deitrick, J., & Agarwal, N. (2020). 'Comparative Religion, Topic Models, and Conceptualization: Towards the Characterization of Structural Relationship between Online Religious Discourses', _CHR2020: Workshop on Computational Humanities Research_. [Download](http://ceur-ws.org/Vol-2723/long47.pdf)
