@@ -1,4 +1,4 @@
-# Syllabus Cultural Data Science - Visual #
+# Syllabus Cultural Data Science - Language #
 
 ## Overview ##
 
