@@ -1,1 +1,1 @@
-pandas==3.8
+pandas==1.1.5
